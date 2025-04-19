@@ -11,17 +11,7 @@ The challenge aims to build robust face-counting models that can predict face co
 
 ---
 
-## 🚀 **Setup and Installation**
-
-### Step 1: Clone the repository:
-```bash
-git clone https://github.com/ajaychaudhary2/Face_Counting_Challenge_API.git
-cd Face_Counting_Challenge_API
 
 
 
 
-🔗 Connect with Me
-GitHub: ajaychaudhary2
-
-LinkedIn: Ajay Chaudhary
